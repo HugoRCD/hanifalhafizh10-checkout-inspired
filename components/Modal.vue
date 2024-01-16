@@ -121,6 +121,7 @@ const openModal = ref(true);
         <Button
           label="Cancel"
           block
+          @click="openModal = false"
         />
         <Button
           label="Send"
