@@ -20,13 +20,18 @@ defineProps({
 </script>
 
 <template>
-    <button :class="{
-        'btn-primary': primary,
-        'btn-secondary': !primary && !circle,
-        'btn-circle': circle,
-        'w-full': block
-    }" label="Open modal">
-        {{ label }} </button>
+  <button
+    class="cursor-pointer"
+    :class="{
+      'btn-primary': primary,
+      'btn-secondary': !primary && !circle,
+      'btn-circle': circle,
+      'w-full': block
+    }"
+    label="Open modal"
+  >
+    {{ label }}
+  </button>
 </template>
 
 <style scoped>
