@@ -1,12 +1,19 @@
-# Nuxt 3 Minimal Starter
+# @Hanifalhafizh10 Checkout Form Inspired
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Here is a delightful checkout form built using Nuxt.js and Tailwind CSS. It was inspired by a Twitter post from [@JimDesignsCo](https://x.com/jimdesignsco). You can find the post [here](https://twitter.com/JimDesignsCo/status/1737474070801691136).
+
+Feel free to customize all the colors in the `tailwind.config.ts` and `main.css` files.
+
+Make sure to visit the original creator's profile: [@Hanifalhafizh10](https://x.com/hanifalhafizh10). He is an incredibly talented designer.
 
 ## Setup
 
 Make sure to install the dependencies:
 
 ```bash
+# bun
+bun install
+
 # npm
 npm install
 
@@ -15,9 +22,6 @@ pnpm install
 
 # yarn
 yarn install
-
-# bun
-bun install
 ```
 
 ## Development Server
@@ -25,6 +29,9 @@ bun install
 Start the development server on `http://localhost:3000`:
 
 ```bash
+# bun
+bun run dev
+
 # npm
 npm run dev
 
@@ -34,42 +41,4 @@ pnpm run dev
 # yarn
 yarn dev
 
-# bun
-bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
