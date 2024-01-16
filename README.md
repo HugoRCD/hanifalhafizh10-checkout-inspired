@@ -1,3 +1,5 @@
+![social-preview](./public/social-preview.png)
+
 # @Hanifalhafizh10 Checkout Form Inspired
 
 Here is a delightful checkout form built using Nuxt.js and Tailwind CSS. It was inspired by a Twitter post from [@JimDesignsCo](https://x.com/jimdesignsco). You can find the post [here](https://twitter.com/JimDesignsCo/status/1737474070801691136).
