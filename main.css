@@ -7,11 +7,11 @@ html, body, #__nuxt {
     --background-color: #252525;
     --background-color-2: #181818;
 
-    --accent-color: #E2813A;
-    --accent-color-faded: #43281D;
+    --accent-color: #D44C31;
+    --accent-color-faded: rgba(212, 76, 49, 0.26);
 
     --color-text-primary: #ffffff;
-    --color-text-accent: #E2813A;
+    --color-text-accent: #D44C31;
     --color-text-muted: #878787;
     --color-text-inverted: #ffffff;
 }

@@ -22,7 +22,7 @@ const openModal = ref(false);
                         Hugo Richard
                     </h4>
                     <p class="text-muted">
-                        hrichard206@gmail.com
+                        contact@gmail.com
                     </p>
                 </div>
             </div>
@@ -87,7 +87,7 @@ const openModal = ref(false);
             </div>
             <p class="text-muted mt-2">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum <span
-                    class="text-[#e26c30]">terms & Conditions</span>
+                    class="text-accent">terms & Conditions</span>
             </p>
         </div>
         <div class="divider" />
