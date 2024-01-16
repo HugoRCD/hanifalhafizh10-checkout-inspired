@@ -2,3 +2,16 @@ html, body, #__nuxt {
     width: 100%;
     height: 100%;
 }
+
+:root {
+    --background-color: #252525;
+    --background-color-2: #181818;
+
+    --accent-color: #E2813A;
+    --accent-color-faded: #43281D;
+
+    --color-text-primary: #ffffff;
+    --color-text-accent: #E2813A;
+    --color-text-muted: #878787;
+    --color-text-inverted: #ffffff;
+}

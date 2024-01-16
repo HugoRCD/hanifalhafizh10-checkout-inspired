@@ -11,6 +11,18 @@ export default {
   ],
   theme: {
     extend: {
+      colors: {
+        primary: "var(--color-primary)",
+        accent: "var(--accent-color)",
+        "accent-faded": "var(--accent-color-faded)",
+        muted: "var(--color-muted)",
+      },
+      textColor: {
+        primary: "var(--color-text-primary)",
+        accent: "var(--color-text-accent)",
+        muted: "var(--color-text-muted)",
+        inverted: "var(--color-text-inverted)",
+      },
     },
   },
   plugins: [
